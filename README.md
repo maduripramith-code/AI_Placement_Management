@@ -32,7 +32,9 @@ Google Fonts
 **Project Structure**
 
 AI-Placement-Management/
+
 │── ai_placement_mngmnt.html      # Main application (Single Page)
+
 │── README.md       # Project documentation
 
 **How to Run**
